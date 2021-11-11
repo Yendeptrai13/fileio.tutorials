@@ -1,8 +1,8 @@
 import time
 password = "pass"
 passw = ""
-while passw != password:
-    passw = input("enter your password: ")
+while passw != password:yendangiu
+    passw = input("enter your password:yendangiu")
     if passw != password:
         print("mật khẩu sai!!\n")
     else:
